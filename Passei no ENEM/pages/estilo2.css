@@ -1,0 +1,28 @@
+body{background-color: #F3E2A9; height: 90%; 
+	width:70%; position: absolute;}
+h1{color: #F7BE81;
+font-family: garamond, sans-serif; font-size: 400%;}
+h2{color: #8A2908;}
+h3{color: #8A2908;
+font-family: helvetica, sans-serif;}
+a{color: #F7BE81; background-color: #8A2908 ;}
+#main{
+	height: 14%;
+	width: 107%;
+	margin: "auto";
+	background: #8A2908;
+	position: absolute;
+	top:1%;
+	text-decoration: none;}
+#conjunto_de_links{background: #8A2908; position: absolute; top: 1%; right: -40%;
+font-family:garamond, sans-serif; font-size: 130%; color: #F7BE81; 
+height: 14%; width: 47%; margin: "auto";}
+#underconstruction{background: none; margin-left: 40%; margin-top: 12%;  height: 70%; 
+width: 80%; position: absolute;}
+#exercicios{background: none; font-color: #F3E2A9; position: absolute; top:30%; left:0%;
+ height:10%; width: 65%; font-size: 100%;}
+#downloads{background: none; font-color: #F3E2A9; position: absolute; top:30%; left:0%;
+ height:25%; width: 35%; font-size: 100%;}
+#fale{top: 14%; position: absolute; color: #8A2908; font-size: 220%;}
+#formulario{color:#8A2908; position:absolute; top: 25%;}
+#linkdownload{color:#8A2908;}

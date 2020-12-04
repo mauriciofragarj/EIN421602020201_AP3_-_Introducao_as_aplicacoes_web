@@ -1,0 +1,28 @@
+body{background-color: #F3E2A9; height: 90%; 
+	width:70%; position: absolute;}
+h1{color: #F7BE81;
+font-family: garamond, sans-serif; font-size: 400%;}
+h3{color: #8A2908;
+font-family: helvetica, sans-serif;}
+
+a{color: #F7BE81;}
+
+
+
+#main{
+	height: 14%;
+	width: 107%;
+	margin: "auto";
+	background: #8A2908;
+	position: absolute;
+	top:1%;}
+
+#conjunto_de_links{background: #8A2908; position: absolute; top: 1%; right: -40%;
+font-family:garamond, sans-serif; font-size: 130%; color: #F7BE81; 
+height: 14%; width: 47%; margin: "auto";}
+
+#frase{background: none; position: absolute; top:25%; left:0%;
+ height:10%; width: 65%; font-size: 130%;}
+
+#imagem{margin-left: 32%; margin-top: 14%;  height: 70%; 
+width: 90%; position: absolute; }
